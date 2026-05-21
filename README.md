@@ -5,5 +5,5 @@
 🔬 My research focuses on neural electrical stimulation, brain-computer interfaces, and motor restoration. I combine non-invasive cortical and spinal recordings with computational modeling to develop personalized neurostimulation therapies for patients with spinal cord injury.
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:laura.toni@santannapisa.it)
-[![LinkedIn](https://www.linkedin.com/in/laura-toni-18487214a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-toni-18487214a/)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=BkRn5fEAAAAJ&hl=it)
